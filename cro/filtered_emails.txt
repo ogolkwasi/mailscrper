@@ -1,0 +1,9 @@
+gmail.com
+gmail.com
+Error fetching https://threea.net/: 406 Client Error: Not Acceptable for url: https://threea.net/
+Error fetching https://threea.net/contact-us/: 409 Client Error: Conflict for url: https://threea.net/contact-us/
+Error fetching https://www.datacamp.com/tutorial/sql-query-examples-and-tutorial: 403 Client Error: Forbidden for url: https://www.datacamp.com/tutorial/sql-query-examples-and-tutorial
+gmail.com
+Error fetching https://www.ibm.com/docs/en/db2oc?topic=statement-examples-select-queries: 403 Client Error: Forbidden for url: https://www.ibm.com/docs/en/db2oc?topic=statement-examples-select-queries
+Error fetching https://www.rochester3a.net/: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Error fetching https://www.unep.org/inc-plastic-pollution/session-3: 403 Client Error: Forbidden for url: https://www.unep.org/inc-plastic-pollution/session-3
